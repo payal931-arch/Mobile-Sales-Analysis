@@ -10,5 +10,5 @@ The Mobile Sales Dashboard is an interactive data visualization tool designed to
 
 ## Dashboard Screenshots:
 ![image alt](https://github.com/payal931-arch/Mobile-Sales-Analysis/blob/f4b6810437e620976fb034c58d59065de41c7be6/mobile%20dashboard%201.png)
-![image alt]()
+![image alt](https://github.com/payal931-arch/Mobile-Sales-Analysis/blob/289d5123fe865cf41d02f5763f5af6d231527219/mobile%20dashboard%202.png)
 ![image alt]()
