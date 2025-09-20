@@ -15,4 +15,5 @@ The Mobile Sales Dashboard is an interactive data visualization tool designed to
 
 ## Technologies Used
 Power BI
+
 Excel for Data Processing
